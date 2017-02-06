@@ -33,6 +33,7 @@ namespace myProject
             b = c;
             Console.WriteLine("a is {0}", a);
             Console.WriteLine("b is {0}", b);
+            //
             a = (a * b);
             b = (a / b);
             a = (a / b);
